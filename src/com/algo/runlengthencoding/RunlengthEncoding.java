@@ -7,9 +7,9 @@ public class RunlengthEncoding {
 
 	public static void main(String args[]) {
 
-		String str = "aaaabbbccdddddddeeffffff";
+		String str = "aaaabbbccdddddddeeffffff"; //input String
 
-		String value = getRunLengthEncodingForGivenString(str);
+		String value = getRunLengthEncodingForGivenString(str); 
 		System.out.println(value);
 	}
 

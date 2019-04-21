@@ -37,7 +37,7 @@ public class Solution {
 			if(i==0)
 				continue;
 			finalStr=finalStr+B.charAt(i);
-		}
+	}
 		System.out.println(finalStr);
 	}
 }
